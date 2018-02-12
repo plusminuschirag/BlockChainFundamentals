@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlockChain Fundamentals</string>
+    <string name="what_is_blockchain">
+        What is blockchain?
+        It’s a distributed database.
+        Suppose we have a computer and anyone can access to it and can do some transitional activities. All transactions are stored in a block of data and these blocks are made in a way that makes them very hard manipulate once they are stored in a blockchain.
+        Because of this, you can trust on these blocks.it can only be access by those you allow.
+        It does not store large amounts of data for each transaction.
+        You cannot store images on blockchain but you can store the information regarding the validation of image.
+        Most data stored on a blockchain focuses on transactions and states of objects.</string>
+</resources>
